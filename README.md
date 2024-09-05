@@ -2,9 +2,9 @@
 ### · Report bugs in [**issues**](https://github.com/Seosean/Zombies-Practice-Server-Announcement/issues)  
 ## Server Patch  
 ### 2024/9/6 #2  
-· (UNDER TEST) Fixed mobs never change agro until players attack it by melee.  
-  -> Now mobs could change agro when a non-target player is too close to it.  
-  -> Now mobs have a chance to change agro when a non-target player attack it by melee, instead of 100% the times.  
+· (UNDER TEST) Fixed a issue: mobs only change their agro after being melee attacked by a non-target players.  
+  -> Now mobs might change agro when there is a non-target player too close to it.  
+  -> Now mobs have a chance to change agro when a non-target player attack it by melee, although it still has a high chance, but anyways not 100% the times like before.  
   
 ### 2024/9/5 #1  
 · Fixed clowns dealt too much knockback.  
