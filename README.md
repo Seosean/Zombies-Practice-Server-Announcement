@@ -1,6 +1,11 @@
 # Announcement  
 ### · Report bugs in [**issues**](https://github.com/Seosean/Zombies-Practice-Server-Announcement/issues)  
 ## Server Patch  
+### 2024/9/7 #2  
+· Refactored mobs' AI related codes.
+  -> Most of them won't have difference from before.  
+  -> PigZombies would lose their AI if you punch them in their window (What's the point??).  
+  
 ### 2024/9/7 #1  
 · World Ender now can get knockback by melee.
 · Mob will lose its target when they are despawned until someone attacks them.
