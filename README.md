@@ -2,6 +2,11 @@
 ### · Report bugs in [**issues**](https://github.com/Seosean/Zombies-Practice-Server-Announcement/issues)  
 ## Server Patch  
 ### 2024/9/6 #2  
+· LightningRod refactor (Continues from 2024/9/5 #1 patch):  
+  -> Now mobs will be invulnerable to LightningRod for 0.5s after getting effected by LightningRod.  
+  -> The feature about LightningRod causes despawned mobs was implemented and applied.  
+  
+### 2024/9/6 #1  
 · (UNDER TEST) Fixed a issue: mobs only change their agro after being melee attacked by a non-target players.  
   -> Now mobs might change agro when there is a non-target player too close to it.  
   -> Now mobs have a chance to change agro when a non-target player attack it by melee, although it still has a high chance, but anyways not 100% the times like before.  
