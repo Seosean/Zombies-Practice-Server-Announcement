@@ -1,6 +1,10 @@
 # Announcement  
 ### · Report bugs in [**issues**](https://github.com/Seosean/Zombies-Practice-Server-Announcement/issues)  
 ## Server Patch  
+### 2024/9/9 #1  
+· Fixed slime abnormal reach distance.
+· Fixed rat skip round.
+
 ### 2024/9/8 #1  
 · Invisible-mob bug was recreated in practice server now.
   
