@@ -2,21 +2,24 @@
 ### · Report bugs in [**issues**](https://github.com/Seosean/Zombies-Practice-Server-Announcement/issues)  
 ## Server Patch  
 ### 2024/9/9 #1  
-· Fixed slime abnormal reach distance.
-· Fixed rat skip round.
+· Fixed Iron Golems' knockback
 
+### 2024/9/9 #1  
+· Fixed slime abnormal reach distance.  
+· Fixed rat skip round.  
+  
 ### 2024/9/8 #1  
-· Invisible-mob bug was recreated in practice server now.
+· Invisible-mob bug was recreated in practice server now.  
   
 ### 2024/9/7 #2  
-· Refactored mobs' AI related codes.
+· Refactored mobs' AI related codes.  
   -> Most of them won't have difference from before.  
   -> PigZombies would lose their AI if you punch them in their window (What's the point??).  
   
 ### 2024/9/7 #1  
-· World Ender now can get knockback by melee.
-· Mob will lose its target when they are despawned until someone attacks them.
-  -> All despawned mobs in the game will agro who attacks a despawned mob.  
+· World Ender now can get knockback by melee.  
+· Mob will lose its target when they are despawned until someone attacks them.  
+  -> All despawned mobs in the game will agro who attacks a despawned mob.    
   
 ### 2024/9/6 #2  
 · LightningRod refactor (Continues from 2024/9/5 #1 patch):  
