@@ -1,6 +1,11 @@
 # Announcement  
 ### · Report bugs in [**issues**](https://github.com/Seosean/Zombies-Practice-Server-Announcement/issues)  
 ## Server Patch  
+### 2024/9/17 #1  
+· Fixed creepers became invisible after explosion.   
+· Fixed blackhole made mobs it had killed invulnerable.   
+· Fixed player-like mobs never swung.   
+  
 ### 2024/9/9 #1  
 · Fixed Iron Golems' knockback
 
