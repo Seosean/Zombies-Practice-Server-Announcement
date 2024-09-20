@@ -2,8 +2,9 @@
 ### · Report bugs in [**issues**](https://github.com/Seosean/Zombies-Practice-Server-Announcement/issues)  
 ## Server Patch  
 ### 2024/9/19 #1  
-· Fixed zombies lost and research AI per second.
-· Fixed dying Technician might move abnormally.
+· Fixed zombies lost and research AI per second.  
+· Fixed dying Technician might move abnormally.  
+· Air Cannon will no longer push Bosses.  
   
 ### 2024/9/17 #1  
 · Fixed creepers became invisible after explosion.   
